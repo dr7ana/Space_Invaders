@@ -5,4 +5,5 @@ This is a simple SFML implementation of the game Space Invaders, with a Star War
 Requires SFML 2.5
 
 Author: Daniel Rouhana
+
 Date: November 2020
